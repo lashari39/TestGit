@@ -1,1 +1,2 @@
 Writing this line for first commit on master branch
+Writing this line for second commit on master branch
